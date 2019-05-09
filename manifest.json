@@ -8,7 +8,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "juegosArtificiales/index.html",
+  "start_url": "JuegosArtificiales/index.html",
   "background_color": "#000",
   "theme_color": "#536878",
   "display": "standalone"
